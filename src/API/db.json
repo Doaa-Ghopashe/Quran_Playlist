@@ -1,0 +1,616 @@
+{
+    "playlist":[
+        {
+            "id":1,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"Al kahf",
+            "surahAR":"الكهف",
+            "surahnum":18,
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat045.mp3"
+        },
+        {
+            "id":2,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"Al Baqra",
+            "surahAR":"البقرة",
+            "surahnum":2,
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":3,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"Muhammed",
+            "surahAR":"محمد",
+            "surahnum":47,
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":4,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"Al Tawba",
+            "surahnum":9,
+            "surahAR":"التوبة",
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":5,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"Al-Fateha",
+            "surahAR":"الفاتحه",
+            "surahnum":1,
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":6,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"Ali 'Imran",
+            "surahAR":"آل عمران",
+            "surahnum":3,
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":7,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"An Nisa",
+            "surahAR":"النساء",
+            "surahnum":4,
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":8,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"Al-Ma'idah",
+            "surahAR":"المائده",
+            "surahnum":5,
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg"
+
+        },
+        {
+            "id":9,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"Al An'am",
+            "surahnum":6,
+            "surahAR":"الأنعام",
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":10,
+            "readernameEN":"Muhammad Rifat",
+            "readernameAR":"محمد رفعت",
+            "surahEN":"Al-A'raf",
+            "surahAR":"الأعراف",
+            "surahnum":7,
+            "imgsrc":"https://i.pinimg.com/564x/a1/34/47/a13447712e94dca36b817a181f9ed9bb.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":11,
+            "readernameEN":"Mustafa Ismail",
+            "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"Al Tawba",
+            "surahnum":9,
+            "surahAR":"التوبة",
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":12,
+            "readernameEN":"Mustafa Ismail",
+            "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"Al-Fateha",
+            "surahAR":"الفاتحه",
+            "surahnum":1,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":13,
+            "readernameEN":"Mustafa Ismail",
+            "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"Ali 'Imran",
+            "surahAR":"آل عمران",
+            "surahnum":3,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":14,
+            "readernameEN":"Mustafa Ismail",
+            "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"An Nisa",
+            "surahAR":"النساء",
+            "surahnum":4,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":15,
+            "readernameEN":"Mustafa Ismail",
+            "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"Al-Ma'idah",
+            "surahAR":"المائده",
+            "surahnum":5,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":16,
+            "readernameEN":"Mustafa Ismail",
+            "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"Al An'am",
+            "surahnum":6,
+            "surahAR":"الأنعام",
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":17,
+            "readernameEN":"Mustafa Ismail",
+           "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"Al-A'raf",
+            "surahAR":"الأعراف",
+            "surahnum":7,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":22,
+            "readernameEN":"Mustafa Ismail",
+            "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"Al kahf",
+            "surahAR":"الكهف",
+            "surahnum":18,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat045.mp3"
+        },
+        {
+            "id":23,
+            "readernameEN":"Mustafa Ismail",
+            "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"Al Baqra",
+            "surahAR":"البقرة",
+            "surahnum":2,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":24,
+            "readernameEN":"Mustafa Ismail",
+            "readernameAR":"مصطفى إسماعيل",
+            "surahEN":"Muhammed",
+            "surahAR":"محمد",
+            "surahnum":47,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000041755369-5z7vm5-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":18,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"Al Tawba",
+            "surahnum":9,
+            "surahAR":"التوبة",
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://server13.mp3quran.net/husr/009.mp3"
+        },
+        {
+            "id":25,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"Al-Fateha",
+            "surahAR":"الفاتحه",
+            "surahnum":1,
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":26,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"Ali 'Imran",
+            "surahAR":"آل عمران",
+            "surahnum":3,
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":27,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"An Nisa",
+            "surahAR":"النساء",
+            "surahnum":4,
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":28,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"Al-Ma'idah",
+            "surahAR":"المائده",
+            "surahnum":5,
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":29,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"Al An'am",
+            "surahnum":6,
+            "surahAR":"الأنعام",
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":30,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"Al-A'raf",
+            "surahAR":"الأعراف",
+            "surahnum":7,
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":31,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"Al kahf",
+            "surahAR":"الكهف",
+            "surahnum":18,
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat045.mp3"
+        },
+        {
+            "id":32,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"Al Baqra",
+            "surahAR":"البقرة",
+            "surahnum":2,
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":33,
+            "readernameEN":"Mahmoud Khalil Al-Hussary",
+            "readernameAR":"محمود خليل الحصري",
+            "surahEN":"Muhammed",
+            "surahAR":"محمد",
+            "surahnum":47,
+            "imgsrc":"https://i1.sndcdn.com/artworks-oZIi5LWhTYBnKg82-0rtrUQ-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":19,
+            "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"Al Tawba",
+            "surahnum":9,
+            "surahAR":"التوبة",
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":34,
+            "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"Al kahf",
+            "surahAR":"الكهف",
+            "surahnum":18,
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat045.mp3"
+        },
+        {
+            "id":35,
+            "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"Al Baqra",
+            "surahAR":"البقرة",
+            "surahnum":2,
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":36,
+             "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"Muhammed",
+            "surahAR":"محمد",
+            "surahnum":47,
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":37,
+            "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"Al-Fateha",
+            "surahAR":"الفاتحه",
+            "surahnum":1,
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":38,
+            "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"Ali 'Imran",
+            "surahAR":"آل عمران",
+            "surahnum":3,
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":39,
+            "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"An Nisa",
+            "surahAR":"النساء",
+            "surahnum":4,
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":40,
+            "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"Al-Ma'idah",
+            "surahAR":"المائده",
+            "surahnum":5,
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":41,
+            "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"Al An'am",
+            "surahnum":6,
+            "surahAR":"الأنعام",
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":42,
+            "readernameEN":"Muhammad Siddiq Al-Minshawi",
+            "readernameAR":"محمد صديق المنشاوي",
+            "surahEN":"Al-A'raf",
+            "surahAR":"الأعراف",
+            "surahnum":7,
+            "imgsrc":"https://cdn.al-ain.com/images/2022/3/19/127-184232-muhammad-siddiq-minshawi-crying-reader-2.jpeg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":20,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"Al Tawba",
+            "surahnum":9,
+            "surahAR":"التوبة",
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":43,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"Al kahf",
+            "surahAR":"الكهف",
+            "surahnum":18,
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat045.mp3"
+        },
+        {
+            "id":44,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"Al Baqra",
+            "surahAR":"البقرة",
+            "surahnum":2,
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":45,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"Muhammed",
+            "surahAR":"محمد",
+            "surahnum":47,
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":46,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"Al-Fateha",
+            "surahAR":"الفاتحه",
+            "surahnum":1,
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":47,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"Ali 'Imran",
+            "surahAR":"آل عمران",
+            "surahnum":3,
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":48,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"An Nisa",
+            "surahAR":"النساء",
+            "surahnum":4,
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":49,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"Al-Ma'idah",
+            "surahAR":"المائده",
+            "surahnum":5,
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":50,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"Al An'am",
+            "surahnum":6,
+            "surahAR":"الأنعام",
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":51,
+            "readernameEN":"Kamil Yusuf Al-Bahtimi",
+            "readernameAR":"كامل يوسف البهتيمي",
+            "surahEN":"Al-A'raf",
+            "surahAR":"الأعراف",
+            "surahnum":7,
+            "imgsrc":"http://quran.com.kw/en/wp-content/uploads/al-minshawy-1.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":21,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"Al Tawba",
+            "surahAR":"التوبة",
+            "surahnum":9,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+        },
+        {
+            "id":52,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"Al kahf",
+            "surahAR":"الكهف",
+            "surahnum":18,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat045.mp3"
+        },
+        {
+            "id":53,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"Al Baqra",
+            "surahAR":"البقرة",
+            "surahnum":2,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":54,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"Muhammed",
+            "surahAR":"محمد",
+            "surahnum":47,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":55,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"Al-Fateha",
+            "surahAR":"الفاتحه",
+            "surahnum":1,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        },
+        {
+            "id":56,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"Ali 'Imran",
+            "surahAR":"آل عمران",
+            "surahnum":3,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":57,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"An Nisa",
+            "surahAR":"النساء",
+            "surahnum":4,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat041.mp3"
+        },
+        {
+            "id":58,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"Al-Ma'idah",
+            "surahAR":"المائده",
+            "surahnum":5,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":59,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"Al An'am",
+            "surahnum":6,
+            "surahAR":"الأنعام",
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat050.mp3"
+
+        },
+        {
+            "id":60,
+            "readernameEN":"Abdul Basit 'Abd us-Samad",
+            "readernameAR":"عبد الباسط عبد الصمد",
+            "surahEN":"Al-A'raf",
+            "surahAR":"الأعراف",
+            "surahnum":7,
+            "imgsrc":"https://i1.sndcdn.com/artworks-000531163503-elo778-t500x500.jpg",
+            "surahaudio":"https://archive.org/download/Refaat/Refaat096.mp3"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap');
+*{
+  box-sizing: border-box;
+  padding:0;
+  margin: 0;
+}
+html, body, #app, #app>div {
+  height: 100%
+}
+:root{
+  --surahname:"سورة الفاتحه";
+  --seek-before-width: 0;
+  --volume-before-width: 100%;
+  --buffered-width: 0%;
+  --slide-left:0px;
+  --slide-right:0px;
+}
+
+.Appheader{
+  min-height: 100vh;  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+img{
+  width: 100%;
+}
+.row{
+  width: 100%;
+}
+a{
+  color: white !important;
+}
+a:hover{
+  text-decoration: none !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
